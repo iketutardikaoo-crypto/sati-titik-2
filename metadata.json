@@ -1,0 +1,6 @@
+{
+  "name": "Buku Kas",
+  "description": "Aplikasi pembukuan keuangan kas harian dengan foto nota bukti transaksi, riwayat, analisis pengeluaran, dan backup data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
